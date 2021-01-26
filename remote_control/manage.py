@@ -2,6 +2,7 @@
 import os
 import sys
 print (3)
+print (3)
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "remote_control.settings")
 
